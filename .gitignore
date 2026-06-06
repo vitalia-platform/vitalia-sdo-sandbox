@@ -1,3 +1,5 @@
 
 # Vitalia Spec Kit — contexto de sessão da IA (repo Git separado)
 .specify/memory/session/
+legacy_schema.sql
+*.DS_Store
